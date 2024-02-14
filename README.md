@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Dinesh🚀, a seasoned Full Stack Engineer💻 with a passion for Machine Learning and Robotics🤖.<br>With a keyboard as their wand, I conjure elegant solutions in both the front and back-end realms.<br>I did my masters at ASU and my bachelors at IIT Delhi🎓. Always on the lookout for the next big challenge💪.<br>In my free time, I go to the gym or play badminton🏸. 
+Hi, I'm Dinesh🚀, a seasoned Full Stack Engineer💻 with a passion for Machine Learning and Robotics🤖.<br>With my keyboard as a wand, I conjure elegant solutions in both the front and back-end realms.<br>I did my masters at ASU and my bachelors at IIT Delhi🎓. Always on the lookout for the next big challenge💪.<br>In my free time, I go to the gym or play badminton🏸. 
 
 
 # 💻 Tech Stack:
